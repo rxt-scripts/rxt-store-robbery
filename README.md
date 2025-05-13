@@ -30,3 +30,7 @@ A clean and synced **store robbery system** for ESX, QBCore, and standalone Five
 
 1. **Drag & Drop** the folder `rxt_store_robbery` into your `resources` directory.
 2. Add this to your `server.cfg`:
+
+-ensure ox_lib
+-ensure ox_target
+-ensure rxt_store_robbery
